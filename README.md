@@ -1,7 +1,7 @@
 ### Hi there, I'm Matthew - aka [actimel35](actimel35.ru) 👋
 
 ## I'm a junior web developer and web designer!
-- 🔭 I’m currently working on a [my site portfolio](actimel35.ru)!
+- 🔭 I’m currently working on [my site portfolio](actimel35.ru)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Realese more project for my portfolio and find job!
@@ -35,4 +35,4 @@
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=actimel35&show_icons=true&hide_border=true" />
+<img align="left" alt="actimel35's Github Stats" src="https://github-readme-stats.vercel.app/api?username=actimel35&show_icons=true&hide_border=true" />
