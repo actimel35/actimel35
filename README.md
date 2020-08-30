@@ -36,8 +36,9 @@
 <br />
 
 ---
-<img align="left" alt="actimel35's Github Stats" src="https://github-readme-stats.vercel.app/api?username=actimel35&show_icons=true&hide_border=true" />
+[<img align="left" alt="actimel35's Github Stats" src="https://github-readme-stats.vercel.app/api?username=actimel35&show_icons=true&hide_border=true" />]
 <br />
-<br /><br />
 <br />
-[<img align="left" src="https://raw.githubusercontent.com/actimel35/actimel35/master/holly.png" />]
+<br />
+<br />
+<img align="left" src="https://raw.githubusercontent.com/actimel35/actimel35/master/holly.png" />
