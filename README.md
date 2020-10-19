@@ -1,8 +1,8 @@
 ![bg](https://user-images.githubusercontent.com/21257081/90310314-a6df0980-df1a-11ea-9c72-785d4c092f8f.png)
-### Hi there, I'm Matthew - aka [actimel35](baygin.space) 👋
+### Hi there, I'm Matthew - aka [actimel35](https://baygin.space) 👋
 
 ## I'm a junior web developer and web designer!
-- 🔭 I’m currently working on [my site portfolio](baygin.space)!
+- 🔭 I’m currently working on [my site portfolio](https://baygin.space)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Realese more project for my portfolio and find job!
